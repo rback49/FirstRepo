@@ -3,3 +3,5 @@ This is a message that needs to be amended to the previous commit
 Commit#2 during squash activity 
 
 Commit#3 during squash activity 
+
+COmmit#4 during squash activity 
